@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(253, 236, 205);
+}
+.head{
+    font-size: 64px;
+    color: aliceblue;
+    background-color: rgb(163, 27, 45);
+    text-align: center;
+    
+}
+.titveg{
+    font-size: 40px;
+    color: rgb(163, 27, 45);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: bold;
+
+}
+.receita{
+    color: rgb(163, 27, 45);
+    font-size: 24px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+
+}
