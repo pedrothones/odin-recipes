@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(253, 236, 205);
+}
+.imagem{
+    display: block;
+    margin: 0 auto;
+    height: auto;
+    width: 500px;
+
+}
+
+.barra{
+    font-size: 64px;
+    color: aliceblue;
+    background-color: rgb(163, 27, 45);
+    text-align: center;
+}
+.head{
+    color: rgb(163, 27, 45);
+    font-size: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingred{
+    font-size: 32px;
+    color: sienna;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.subingred{
+    font-size: 24px;
+    color: ;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.listaprep,
+.listaingred{
+    color: #4d342b;
+    font-size: 20px;
+    font-family: sans-serif
+}
+
+.listaprep{
+    background-color: ;
+}
+
+
+
+
